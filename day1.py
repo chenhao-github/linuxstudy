@@ -1,2 +1,3 @@
 #-*-coding:utf-8-*-
-print ("123")
+print ("hello git")
+print ("hello python")
